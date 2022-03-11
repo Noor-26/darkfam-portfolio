@@ -3,10 +3,5 @@
         "id":1,
         "name":"noor",
         "work":"frontend webdeveloper"
-    },
-    {
-        "id":1,
-        "name":"jim",
-        "work":"backend webdeveloper"
     }
 ]
